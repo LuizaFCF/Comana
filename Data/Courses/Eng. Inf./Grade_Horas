@@ -1,0 +1,32 @@
+[
+    {
+        "categoria": "Obrigatórias",
+        "creditos": 245,
+        "horas": 2940
+    },
+    {
+        "categoria": "Opção limitada",
+        "creditos": 28,
+        "horas": 336
+    },
+    {
+        "categoria": "Livres",
+        "creditos": 27,
+        "horas": 324
+    },
+    {
+        "categoria": "Atividades complementares",
+        "creditos": 0,
+        "horas": 168
+    },
+    {
+        "categoria": "Estágio Obrigatório",
+        "creditos": 0,
+        "horas": 120
+    },
+    {
+        "categoria": "Carga horária total do curso",
+        "creditos": 300,
+        "horas": 3600
+    }
+]
